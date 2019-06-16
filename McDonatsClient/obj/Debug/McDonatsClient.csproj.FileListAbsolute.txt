@@ -1,0 +1,26 @@
+D:\Филипп\C#\McDonatsClient\bin\Debug\McDonatsClient.exe.config
+D:\Филипп\C#\McDonatsClient\bin\Debug\McDonatsClient.exe
+D:\Филипп\C#\McDonatsClient\bin\Debug\McDonatsClient.pdb
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.csprojAssemblyReference.cache
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.Form1.resources
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.Properties.Resources.resources
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.FoodControl.resources
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.csproj.GenerateResource.cache
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.csproj.CoreCompileInputs.cache
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.exe
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.pdb
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.Check.resources
+D:\Филипп\C#\McDonatsClient\obj\Debug\McDonatsClient.Form3.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\bin\Debug\McDonatsClient.exe.config
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\bin\Debug\McDonatsClient.exe
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\bin\Debug\McDonatsClient.pdb
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.csprojAssemblyReference.cache
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.MainForm.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.Check.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.LoadingForm.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.Properties.Resources.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.FoodControl.resources
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.csproj.GenerateResource.cache
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.csproj.CoreCompileInputs.cache
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.exe
+C:\Users\Donat\Documents\Semester6\C Sharp\McDonatsClient\obj\Debug\McDonatsClient.pdb
